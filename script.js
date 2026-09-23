@@ -1,5 +1,5 @@
 const products = [
-  { id: 1, name: 'This Is APRIL Vera Vest', category: 'Tops', price: 140000, oldPrice: 300000, condition: 'Like new', image: 'https://images.unsplash.com/photo-1790137658124-4012ee8f60bc?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',  shopeeUrl: 'https://shopee.co.id/link-produk-asli'
+  { id: 1, name: 'This Is APRIL Vera Vest', category: 'Tops', price: 140000, oldPrice: 300000, condition: 'Like new', image: 'https://images.unsplash.com/photo-1790137658124-4012ee8f60bc?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',  shopeeUrl: 'https://shopee.co.id/VERA-VEST-THUS-IS-APEIL-PRELOVED-i.80782519.49166772629?extraParams=%7B%22display_model_id%22%3A331539083680%2C%22model_selection_logic%22%3A3%7D'
  },
   { id: 2, name: 'Sunday Knit', category: 'Tops', price: 119000, oldPrice: 219000, condition: 'Very good', image: 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=700&q=85' },
   { id: 3, name: 'Dune Slip Dress', category: 'Dresses', price: 149000, oldPrice: 299000, condition: 'Like new', image: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=700&q=85' },
